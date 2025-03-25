@@ -8,7 +8,8 @@ Major aspects:
   2. APIs
   3. SQL database
 
-![image](https://github.com/user-attachments/assets/1d1788c4-7839-435c-ad6e-b8da075d6057)
+![image](https://github.com/user-attachments/assets/7ac535aa-e0cf-4ca5-9850-4094ae5af051)
+
 
 Skills applied:
 - Collect data from the internet by writing a web scraping script using Python’s library beautifulsoup.
